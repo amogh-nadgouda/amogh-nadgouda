@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amogh
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+java+developer;Photographer;Chess+enthusiast;Problem+Solver;F1+enthusiast" alt="Headline" /></h1>
+<h1 align="center">Hi 👋, I'm Amogh<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&width=600&height=50&lines=Fullstack+java+developer;Photographer;Chess+enthusiast;Problem+Solver;F1+enthusiast" alt="Headline" /></h1>
 
 - 🌱 I’m currently learning **SpringBoot, Hibernate, React**
 
