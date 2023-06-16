@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **SpringBoot, Hibernate, React**
 
+- - 👯 I’m looking to collaborate on **fun java and web projects**
+
 - 💬 Ask me about **java, sql, html, css, js**
 
 - 📫 How to reach me **amogh.nadgouda7@gmail.com**
@@ -23,3 +25,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amogh-nadgouda&show_icons=true&locale=en&layout=compact" alt="amogh-nadgouda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amogh-nadgouda&" alt="amogh-nadgouda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amogh-nadgouda&show_icons=true&locale=en" alt="amogh-nadgouda" /></p>
