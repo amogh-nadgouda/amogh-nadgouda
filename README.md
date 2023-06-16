@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amogh</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate and creative developer</h3>
 
 - 🌱 I’m currently learning **SpringBoot, Hibernate, React**
 
@@ -7,12 +7,14 @@
 
 - 📫 How to reach me **amogh.nadgouda7@gmail.com**
 
+- ♞ Up for a game of chess? <a href="https://www.chess.com/member/amogh_n" target="blank">amogh_n</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/amoghnadgouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amoghnadgouda" height="30" width="40" /></a>
 <a href="https://instagram.com/fourteen_pixels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fourteen_pixels" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amogh_nadgouda7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amogh_nadgouda7" height="30" width="40" /></a>
 <a href="https://discord.gg/amogh_n#0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amogh_n#0127" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
