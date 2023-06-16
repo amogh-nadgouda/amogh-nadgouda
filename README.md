@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amogh</h1>
-<h3 align="center">A passionate and creative developer</h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+java+developer;Photographer;Chess+enthusiast;Problem+Solver;F1+enthusiast" alt="Headline" />
 
 - 🌱 I’m currently learning **SpringBoot, Hibernate, React**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amogh.nadgouda7@gmail.com**
 
-- ♞ Up for a game of chess? <a href="https://www.chess.com/member/amogh_n" target="blank">amogh_n</a>
+- ♕ Up for a game of chess? <a href="https://www.chess.com/member/amogh_n" target="blank">amogh_n</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/amoghnadgouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amoghnadgouda" height="30" width="40" /></a>
